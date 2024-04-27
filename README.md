@@ -1,16 +1,28 @@
-### Hi there 👋
+# Mohammad 👋
 
-<!--
-**murasoll/murasoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm a passionate frontend developer and UI/UX designer from Karbala, Iraq. Let's build something amazing together! ✨
 
-Here are some ideas to get you started:
+### Skills 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development**: HTML, CSS, SASS, JavaScript, TypeScript, React, Redux, Next.js, Node.js, Express.js
+- **UI/UX**: Figma, Prototyping, Usability Testing, Responsive Design
+- **Tools**: Git, Docker, AWS, Vercel
+- **Design**: Adobe Photoshop
+
+### Projects 🚀
+
+- **[SAHELLI](https://sahelli.com)**: Designed UI/UX and developed the frontend using React, connecting to backend APIs.
+- **[ALAYAT PHARMACY](https://alayatpharmacy.com)**: Designed UI/UX, developed frontend with React & Redux, integrated with backend APIs.
+- **[AOUN](https://aoun-iq.com)**: Designed UI/UX, developed user experience using Django templates and HTMX.
+- **[PEXELBERK](https://pexelberk.com)**: Designed UI/UX, developed frontend with HTML, CSS, and JavaScript.
+
+### Connect with Me 💬
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murasoll/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joepexel@gmail.com)
+
+### Fun Facts 🎉
+
+- 🌱 I'm currently learning Next.js and diving deeper into React ecosystem.
+- 🎸 In my free time, I enjoy mkaing art.
+- 📚 Always eager to learn new technologies and share knowledge with others.
