@@ -9,12 +9,15 @@ Hey there! I'm a passionate frontend developer and UI/UX designer from Karbala, 
 - **Tools**: Git, Docker, AWS, Vercel
 - **Design**: Adobe Photoshop
 
+<!--
+
 ### Projects 🚀
 
 - **[SAHELLI](https://sahelli.com)**: Designed UI/UX and developed the frontend using React, connecting to backend APIs.
 - **[ALAYAT PHARMACY](https://alayatpharmacy.com)**: Designed UI/UX, developed frontend with React & Redux, integrated with backend APIs.
 - **[AOUN](https://aoun-iq.com)**: Designed UI/UX, developed user experience using Django templates and HTMX.
 - **[PEXELBERK](https://pexelberk.com)**: Designed UI/UX, developed frontend with HTML, CSS, and JavaScript.
+-->
 
 ### Connect with Me 💬
 
