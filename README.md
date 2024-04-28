@@ -27,5 +27,5 @@ Hey there! I'm a passionate frontend developer and UI/UX designer from Karbala, 
 ### Fun Facts 🎉
 
 - 🌱 I'm currently learning Next.js and diving deeper into React ecosystem.
-- 🎸 In my free time, I enjoy mkaing art.
+- 🎸 In my free time, I enjoy making art.
 - 📚 Always eager to learn new technologies and share knowledge with others.
