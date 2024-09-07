@@ -1,6 +1,6 @@
 # Mohammad 👋
 
-Hey there! I'm a passionate frontend developer and UI/UX designer from Karbala, Iraq.
+Hey there! I'm a passionate frontend developer and UI/UX designer from Iraq.
 
 ### Skills 🎯
 
